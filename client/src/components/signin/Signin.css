@@ -1,0 +1,27 @@
+  
+h2{
+    color:#0e1443;
+}
+
+button[type=submit]{
+    background-color: #2e2a5b;
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none; 
+    margin-right:159px;
+}
+.card{
+    margin-top: 65px;
+    box-shadow: rgba(0, 0, 0, 0.24) 2px 2px 9px;
+    
+}
+body{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.5f59WwP6EcFsgKe922PcbAHaEo&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card-title{
+    background-color: #e0e2e4;
+    
+}

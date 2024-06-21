@@ -1,0 +1,45 @@
+h2{
+    color:#0e1443;
+}
+
+button[type=submit]{
+    background-color: #2e2a5b;
+    border-radius: 30px;
+    padding: 5px 10px;
+    border: none; 
+    margin-right:145px;
+}
+.card{
+    margin-top: 65px;
+    box-shadow: rgba(0, 0, 0, 0.24) 2px 2px 9px;
+    
+}
+body{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.5f59WwP6EcFsgKe922PcbAHaEo&pid=Api&P=0&h=180");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card-title{
+    background-color: #e0e2e4;
+    
+}
+
+.card {
+    margin-top: 65px;
+    box-shadow: rgba(51, 46, 46, 0.24) 2px 2px 9px;
+    border-radius: 55px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 25px;
+     /* Rounded corners for the card */
+    overflow: hidden; /* To ensure content stays within the rounded corners */
+}
+
+
+
+/*  */
+
+
+
+
+

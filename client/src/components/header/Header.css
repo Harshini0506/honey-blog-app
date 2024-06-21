@@ -1,0 +1,17 @@
+nav{
+    font-family: serif;
+    font-size: medium;
+    
+}
+  .nav-link:hover {
+    color: #dfd4b2; 
+    font-size: 1.4rem; 
+   
+  }
+
+  .navbar {
+    background-color: #484f4f;
+  }
+
+
+  
